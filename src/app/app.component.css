@@ -1,0 +1,7 @@
+.time {
+    margin-right: 20px;
+}
+
+.time:last-child {
+    margin-right: 0;
+}
